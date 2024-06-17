@@ -1,4 +1,5 @@
 # Ignore Python virtual environments
+
 geo_env/
 .venv/
 country_boundaries/
