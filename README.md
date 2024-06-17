@@ -2,7 +2,7 @@
 
 ## code for cleaning and formatting in data pipeline directory 
 
-## Usage of the GeoCleaner Class 
+### Usage of the GeoCleaner Class 
 
 - For customized usage feel free to adapt the class methods to your needs
 - This code is highly specialized for spatial data about farms all over Europe
