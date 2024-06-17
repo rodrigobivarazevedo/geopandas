@@ -1,0 +1,21 @@
+# Ignore Python virtual environments
+geo_env/
+.venv/
+country_boundaries/
+
+notebooks/geospatial-learn-course-data/
+
+geospatial-learn-course-data/
+data/
+
+database/
+
+processed_data/
+combined_data/
+combined_verified_data_lab/
+combined_verified_data/
+combined_data_lab/
+processed_data/
+processed_data_lab/
+verified_data/
+
